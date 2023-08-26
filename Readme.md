@@ -1,3 +1,4 @@
+![logo](https://github.com/minhajul9/minhajul9/blob/main/MERN.png)
 <h1 align="center">Hi 👋, I'm Minhaj Ul Islam Chowdhury</h1>
 <h3 align="center">Web Developer | Frontend Developer | MERN Stack Developer</h3>
 
