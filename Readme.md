@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajul9&label=Profile%20views&color=0e75b6&style=flat" alt="minhajul9" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, NextJS**
+- 🌱 I’m currently learning **Flutter, Socket.IO**
 
-- 👨‍💻 All of my projects are available at [https://minhaj-chowdhury.netlify.app/](https://minhaj-chowdhury.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://minhaj-chowdhury.netlify.app/)
 
 - 📫 How to reach me **mulislamchowdhury@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kcFknGMEgnfBKO2Fh7Y-fPJ0ZyIrV7tF/view?usp=drive_link](https://drive.google.com/file/d/1kcFknGMEgnfBKO2Fh7Y-fPJ0ZyIrV7tF/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kcFknGMEgnfBKO2Fh7Y-fPJ0ZyIrV7tF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
