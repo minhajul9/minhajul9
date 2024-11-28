@@ -1,6 +1,6 @@
 ![logo](https://github.com/minhajul9/minhajul9/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Minhaj Ul Islam Chowdhury</h1>
-<h3 align="center">Web Developer | Frontend Developer | MERN Stack Developer</h3>
+<h3 align="center">Web Developer | Frontend Developer | MERN Stack Developer | Flutter Developer</h3>
 
 <img align="right" alt="Development" width="400" src="https://raw.githubusercontent.com/minhajul9/minhajul9/refs/heads/main/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif">
 
