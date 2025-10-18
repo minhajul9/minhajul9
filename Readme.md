@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://minhaj-chowdhury.netlify.app/)
 
-- 📫 How to reach me **mulislamchowdhury@gmail.com**
+- 📫 How to reach me **minhaj@softzyne.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kcFknGMEgnfBKO2Fh7Y-fPJ0ZyIrV7tF/view?usp=drive_link)
 
